@@ -1,0 +1,30 @@
+{
+  "name": "wapp-bot",
+  "version": "1.0.0",
+  "description": "whatsapp-bot-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbsofttechnology/wapp-bot.git"
+  },
+  "keywords": [
+    "wapp",
+    "whatsapp",
+    "bot",
+    "api"
+  ],
+  "author": "Abdur Rahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbsofttechnology/wapp-bot/issues"
+  },
+  "homepage": "https://github.com/rbsofttechnology/wapp-bot#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "venom-bot": "^3.0.18"
+  }
+}
